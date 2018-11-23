@@ -8,6 +8,6 @@
  * @license   General Public Licence http://www.opensource-socialnetwork.org/licence
  * @link      http://www.opensource-socialnetwork.org/licence
  */
-
+ "DiscordChat" => "Discord Chat",
 );
 ossn_register_languages('en', $en);
